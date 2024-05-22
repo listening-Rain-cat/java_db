@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="mysql-connector-j-8.1">
+    <CLASSES>
+      <root url="file://E:/IDM下载/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0" />
+      <root url="file://E:/IDM下载/jfreechart-1.0.1/jfreechart-1.0.1/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/IDM下载/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/src/build/java" />
+      <root url="file://E:/IDM下载/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/src/demo/java" />
+      <root url="file://E:/IDM下载/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/src/generated/java" />
+      <root url="file://E:/IDM下载/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/src/legacy/java" />
+      <root url="file://E:/IDM下载/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/src/main/core-api/java" />
+      <root url="file://E:/IDM下载/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/src/main/core-impl/java" />
+      <root url="file://E:/IDM下载/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/src/main/protocol-impl/java" />
+      <root url="file://E:/IDM下载/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/src/main/user-api/java" />
+      <root url="file://E:/IDM下载/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/src/main/user-impl/java" />
+      <root url="file://E:/IDM下载/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/src/test/java" />
+      <root url="file://E:/IDM下载/jfreechart-1.5.4/jfreechart-1.5.4/src/main/java" />
+      <root url="file://E:/IDM下载/jfreechart-1.5.4/jfreechart-1.5.4/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://E:/IDM下载/jfreechart-1.0.1/jfreechart-1.0.1/lib" recursive="false" />
+    <jarDirectory url="file://E:/IDM下载/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0" recursive="false" />
+  </library>
+</component>
